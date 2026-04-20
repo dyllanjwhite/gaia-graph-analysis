@@ -38,6 +38,4 @@ Completed:
 Integrate real Gaia DR3 data
 Analyze spatial clustering in real astronomical data
 
-# Project Report
 
-[View Final Report (PDF)](pro1_file.pdf)
