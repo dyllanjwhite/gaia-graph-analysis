@@ -26,15 +26,14 @@ ggplot2
 
 This project explores graph-based representations of stellar spatial data using k-nearest neighbor (k-NN) graphs.
 
-# Current Progress
-Synthetic data prototype
-k-NN graph construction (k=5)
-Network metrics:
-  Degree
-  Connected components
-  Clustering coefficient
+# Current Status
+
+Completed:
+- Synthetic data generation (RA/Dec)
+- Exploratory Data Analysis (EDA)
+- k-NN graph construction
+- Analysis of graph properties across k
 
 # Next Steps
 Integrate real Gaia DR3 data
-Analyze stuctural changes with varying k
-Explore clustering and spatial patterns
+Analyze spatial clustering in real astronomical data
