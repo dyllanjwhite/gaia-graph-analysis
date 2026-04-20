@@ -35,7 +35,9 @@ Completed:
 - Analysis of graph properties across k
 
 # Next Steps
-Integrate real Gaia DR3 data
-Analyze spatial clustering in real astronomical data
+- Integrate real Gaia DR3 data
+- Analyze spatial clustering in real astronomical data
 
+# Final Report
 
+[View k-NN Graph Analysis Report](pro1_file.pdf)
