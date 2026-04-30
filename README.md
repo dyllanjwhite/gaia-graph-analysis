@@ -6,9 +6,7 @@ This project explores graph-based analysis of stellar position data using a subs
 # Objective
 
 Construct nearest-neighbor graphs and analyze structural properties such as: 
-- connectivity
-- degree distribution
-- clustering behavior
+
 - Graph connectivity
 - Degree distribution
 - Clustering behavior
