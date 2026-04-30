@@ -52,7 +52,3 @@ We also compare results from real Gaia data to a synthetic baseline to highlight
 # Conclusion
 
 This project demonstrates how graph-based methods can reveal meaningful spatial structure in astronomical datasets. The k-NN framework provides a flexible way to study connectivity, clustering, and density in stellar distributions.
-
-# Final Report
-
-[View k-NN Graph Analysis Report](pro1_file.pdf)
