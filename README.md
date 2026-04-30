@@ -1,7 +1,7 @@
 # gaia-graph-analysis
 # Nearest-neighbor graph analysis of Gaia stellar data
 
-This project explores graph-based analysis of stellar position data using a subset of the Gaia DR3 catalog. The goal is to understand spatial structure by constructing and analyzing k-nearest neighbor (k-NN) graphs in Python.
+This project investigates spatial structure in stellar position data using graph-based methods applied to a subset of the Gaia DR3 catalog.
 
 # Objective
 
